@@ -53,8 +53,8 @@ body{
   width: 100vw;
   height: 100vh;
   background-repeat: repeat-x;
-  background-size: auto 100%;          /* ✅ 높이는 무조건 꽉 채움 */
-  background-position: left bottom;    /* ✅ 바닥 기준 */
+  background-size: auto 100%;         
+  background-position: left bottom;   
   z-index: -1;
 }
 
